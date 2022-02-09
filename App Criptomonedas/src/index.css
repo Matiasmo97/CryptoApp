@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@200&family=Raleway:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@200&family=Raleway:wght@100;400&display=swap');
+
+body {
+  background-color: #311450;
+  /* background-color: #0d2235; */
+}
+.error {
+  background-color: #b7322c;
+  padding: 1rem;
+  color: white;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+}
+.resultado {
+  color: white;
+}
+.resultado h2 {
+  font-weight: bold;
+  color: white;
+}
+.resultado p {
+  font-size: 18px!important;
+}
+.resultado p span {
+  font-weight: bold;
+}
+p.precio{
+  font-size: 30px!important;
+}
