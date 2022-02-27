@@ -1,6 +1,6 @@
 # Cotizador de Criptomonedas *Crypto App*
 
-Es una Single Page donde podemos calcular el precio de diferentes Criptomonedas en diferentes tipos de monedas (Dolar, Euro, Peso Mexicano, Libra).
+Es una Single Page donde podemos calcular el precio de las 10 Criptomonedas más populares del momento en diferentes tipos de monedas (Dolar, Euro, Peso Argentino, Libra, Peso Mexicano).
 Los datos son traidos desde la API de *CryptoCompare*.
 
 ## Lenguajes y herramientas que se utilizaron
