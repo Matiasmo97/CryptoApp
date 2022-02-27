@@ -1,4 +1,4 @@
-# Cotizador de Criptomonedas
+# Cotizador de Criptomonedas *Crypto App*
 
 Es una Single Page donde podemos calcular el precio de diferentes Criptomonedas en diferentes tipos de monedas (Dolar, Euro, Peso Mexicano, Libra).
 Los datos son traidos desde la API de *CryptoCompare*.
@@ -20,9 +20,17 @@ Aprendí a crear Custom Hooks y a crear estilos con Emotion.js
 
 ### Espero que les guste y les resulte útil ♥
 
-## Una captura de la Aplicación Web
+## ♥ Desktop
 
-![image](https://user-images.githubusercontent.com/91910994/150363529-48960ff4-7bc4-4946-9d37-693bea19cea4.png)
+![Captura de pantalla 2022-02-27 132039](https://user-images.githubusercontent.com/91911135/155891393-24092ce5-52a7-46a0-82ac-4f4759ead287.png)
+
+
+![Captura de pantalla 2022-02-27 132135](https://user-images.githubusercontent.com/91911135/155891405-444f4bb3-a145-46f5-835a-aea4e521ae23.png)
+
+## ♥ Diseño Responsive
+
+![Captura de pantalla 2022-02-27 132300](https://user-images.githubusercontent.com/91911135/155891418-539ebd4e-6f09-4dea-932f-6c6f4a7190f6.png)
+
 
 # Getting Started with Create React App
 
